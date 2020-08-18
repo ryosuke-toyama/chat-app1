@@ -98,11 +98,15 @@
   height: 90px;
   background-color: #dddddd;
   padding: 20px 40px;
+  
 }
-.message-form{
+
+.form{
+  width: 100%;
   display: flex;
   justify-content: space-between;
 }
+
 .text-form{
   border: none;
   height: 50px;
